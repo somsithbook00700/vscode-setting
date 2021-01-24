@@ -1,0 +1,81 @@
+//ubuntu
+{
+  "workbench.colorTheme": "Monokai",
+  "window.zoomLevel": 0,
+  "workbench.iconTheme": "material-icon-theme",
+
+  // save to other project-------
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    // "editor.defaultFormatter": "vscode.typescript-language-features"
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    // "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "emmet.triggerExpansionOnTab": true,
+
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx",
+    "xml": {
+      "attr_quotes": "single"
+    }
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
+
+//Window
+{
+  "python.pythonPath": "C:\\Python38-32\\python.exe",
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+  "git.enableSmartCommit": true,
+  "kite.showWelcomeNotificationOnStartup": false,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "python.languageServer": "Pylance",
+  "window.zoomLevel": 0,
+  "C_Cpp.updateChannel": "Insiders",
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "java.home": "C:\\Program Files\\Java\\jdk-15.0.1",
+  "liveServer.settings.donotVerifyTags": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "workbench.iconTheme": "vscode-icons",
+  "files.autoSave": "afterDelay",
+
+  // save to other project-------
+  "[javascript]": {
+    // "editor.defaultFormatter": "vscode.typescript-language-features"
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    // "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "emmet.triggerExpansionOnTab": true,
+
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx",
+    "xml": {
+      "attr_quotes": "single"
+    }
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+  // ----------------------------
+}
+
