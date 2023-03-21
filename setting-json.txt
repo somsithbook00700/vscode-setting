@@ -54,6 +54,7 @@
   "files.autoSave": "afterDelay",
 
   // save to other project-------
+  "editor.formatOnSave": true,
   "[javascript]": {
     // "editor.defaultFormatter": "vscode.typescript-language-features"
     "editor.defaultFormatter": "esbenp.prettier-vscode"
